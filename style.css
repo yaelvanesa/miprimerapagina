@@ -153,3 +153,7 @@ p {
   display: flex;
   justify-content: center;
 }
+
+.greetings {
+  text-align: center;
+}
